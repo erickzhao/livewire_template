@@ -1,10 +1,87 @@
 <mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="header" font-size="20" color="#058C42"/>
+    </mj-attributes>
+  </mj-head>
   <mj-body>
-    <mj-container>
-      <mj-section>
+     <mj-container>
+      <!-- Header -->
+      <mj-section background-color="#191919">
         <mj-column>
-          <mj-divider border-color="#F45E43"></mj-divider>
-          <mj-text font-size="20px" color="#F45E43" font-family="helvetica">Hello World</mj-text>
+          <mj-image width='150px' src='/assets/img/ecsess_logo_white.png'/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#fafafa">
+      <!-- In this issue -->
+      <mj-column width="45%">
+      <mj-text mj-class="header">In this issue</mj-text>
+      <mj-divider/>
+      <mj-table>
+      <tr>
+        <td>1. ECSESS Executive Committee 2017-2018</td>
+      </tr>
+      <tr>
+        <td>2. The Factory Manager Application</td>
+      </tr>
+      <tr>
+        <td>3. National Instruments Lunch and Learn</td>
+      </tr>
+      <tr>
+        <td>4. ECSESS Coffee House</td>
+      </tr>
+      <tr>
+        <td>5. EUS Sports</td>
+      </tr>
+      <tr>
+        <td>6. Excel in Math & Science Workshop</td>
+      </tr>
+      <tr>
+        <td>7. Pancake Breakfast</td>
+      </tr>
+      </mj-table>
+      </mj-column>
+      <mj-column width="55%">
+        <mj-image src="https://unsplash.it/200/300">
+      </mj-column>
+      </mj-section>
+
+      <!-- 2 columns section -->
+      <mj-section background-color="white">
+      <mj-column>
+      <!-- Section Title -->
+        <mj-text mj-class="header">
+          ECSESS Executive Committee 2017-2018
+        </mj-text>
+        <mj-divider/>
+        <!-- Section Body -->
+        <mj-text>
+        The results are out! Here is your executive committee of the academic year 2017-2018:
+        <br/>
+        <ul>
+        <li>VP Academic: Catherine Grosdidier</li>
+        <li>VP Administration: Florence Diep</li>
+        <li>VP Communication: Erick Zhao</li>
+        <li>VP External: Michael Mardini</li>
+        <li>VP Internal: Mike Harvey</li>
+        </ul>
+        </mj-text>
+      </mj-column>
+      </mj-section>
+
+      <!-- Icons -->
+      <mj-section background-color="#fbfbfb">
+      </mj-section>
+
+      <!-- Social icons -->
+      <mj-section background-color="#191919">
+      <mj-column>
+          <mj-social
+            mode="horizontal"
+            text-mode="false"
+            display="facebook instagram twitter"
+          />
         </mj-column>
       </mj-section>
     </mj-container>
