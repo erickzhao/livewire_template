@@ -1,88 +1,217 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-class name="header" font-size="20" color="#058C42"/>
+      <mj-class name="header"
+                container-background-color="#52B781"
+                font-size="24"
+                color="white"
+                text-transform="uppercase"
+                letter-spacing="0.5px"
+      />
+      <mj-class name="title"
+                font-size="48"
+                color="#fcfcfc"
+                text-transform="uppercase"
+                font-weight="700"
+                letter-spacing="-1px"
+                padding-bottom="50px"
+      />
+      <mj-class name="table-of-contents"
+                font-size="16"
+                color="grey"
+                text-transform="capitalize"
+                letter-spacing="2px"
+                padding-top="2"
+                
+      />
+      <mj-class name="body"
+                font-size="14px"
+                color="#3B3B3B"
+      />
+
+
     </mj-attributes>
   </mj-head>
   <mj-body>
      <mj-container>
       <!-- Header -->
-      <mj-section background-color="#191919">
+
+      <mj-hero
+        mode="fixed-height"
+        height="150px"
+        background-width="600px"
+        background-height="150px"
+        background-url="https://i.imgur.com/kk8ROkw.png"
+        background-color="#2a3448"
+        padding="50px 0px">
+        <mj-hero-content width="100%">
+          <mj-image width='80px' src='https://i.imgur.com/ubDqupY.png' padding-bottom="30px"/>
+          <mj-text align="center" mj-class="title">Livewire</mj-text>
+        </mj-hero-content>
+      </mj-hero>
+
+      <!-- Banner -->
+      <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
-          <mj-image width='150px' src='/assets/img/ecsess_logo_white.png'/>
+          <mj-text align="center" font-size="20" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="oblique" letter-spacing="1px">
+          sept 04 to sept 08 - back to school edition
+          </mj-text>
+          <mj-divider
+              padding="10 20"
+              border-width="1px"
+              border-color="grey"/>
         </mj-column>
       </mj-section>
 
       <mj-section background-color="#fafafa">
-      <!-- In this issue -->
-      <mj-column width="45%">
-      <mj-text mj-class="header">In this issue</mj-text>
-      <mj-divider/>
-      <mj-table>
-      <tr>
-        <td>1. ECSESS Executive Committee 2017-2018</td>
-      </tr>
-      <tr>
-        <td>2. The Factory Manager Application</td>
-      </tr>
-      <tr>
-        <td>3. National Instruments Lunch and Learn</td>
-      </tr>
-      <tr>
-        <td>4. ECSESS Coffee House</td>
-      </tr>
-      <tr>
-        <td>5. EUS Sports</td>
-      </tr>
-      <tr>
-        <td>6. Excel in Math & Science Workshop</td>
-      </tr>
-      <tr>
-        <td>7. Pancake Breakfast</td>
-      </tr>
-      </mj-table>
-      </mj-column>
-      <mj-column width="55%">
-        <mj-image src="https://unsplash.it/200/300">
-      </mj-column>
+        <!-- In this issue -->
+        <mj-column border-right="10px solid #fafafa">
+          <mj-text mj-class="header">In this issue</mj-text>
+          <mj-text mj-class="table-of-contents">
+          <ol style="padding-left:20px;">
+            <li>EPTS Tutors Wanted</li>
+            <li>ECSE U0/U1 Social</li>
+            <li>Student Reps Wanted</li>
+            <li>PERSWADE</li>
+            <li>MATLAB Courses</li>
+          </ul>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text mj-class="header">This week</mj-text>
+          <mj-text mj-class="table-of-contents">
+            <ul style="padding-left:0px; list-style:none;">
+              <li>sept 04: Event 1</li>
+              <li>sept 05: Event 2</li>
+              <li>sept 08: Event 3</li>
+            </ul>
+          </mj-text>
+        </mj-column>
       </mj-section>
 
-      <!-- 2 columns section -->
-      <mj-section background-color="white">
-      <mj-column>
-      <!-- Section Title -->
-        <mj-text mj-class="header">
-          ECSESS Executive Committee 2017-2018
-        </mj-text>
-        <mj-divider/>
-        <!-- Section Body -->
-        <mj-text>
-        The results are out! Here is your executive committee of the academic year 2017-2018:
-        <br/>
-        <ul>
-        <li>VP Academic: Catherine Grosdidier</li>
-        <li>VP Administration: Florence Diep</li>
-        <li>VP Communication: Erick Zhao</li>
-        <li>VP External: Michael Mardini</li>
-        <li>VP Internal: Mike Harvey</li>
-        </ul>
-        </mj-text>
-      </mj-column>
+      <!-- Blurb section -->
+      <mj-section background-color="#fafafa" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            EPTS tutors wanted
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fafafa" padding-top="0">
+        <mj-column width="400px">
+          <mj-text mj-class="body">
+            <p>
+            EPTS is Recruiting an ECSE and COMP tutor for the upcoming semester!
+            Tutors are responsible for holding 3 hours of tutoring a week as well
+            as hosting exam review sessions and are compensated $20 / hour.
+            The deadline to apply is September 11th. For additional details about
+            the service as well as different positions visit our website at
+            <a href="http://epts.mcgilleus.ca">http://epts.mcgilleus.ca</a>. To apply for a position please email a copy
+            of your CV and unofficial transcript to <a href="mailto:epts@mcgilleus.ca">epts@mcgilleus.ca</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="150px">
+          <mj-image padding-top="30px" src="https://www.mcgilleus.ca/sites/default/files/portfolio-image/epts.jpg"/>
+        </mj-column>
       </mj-section>
 
-      <!-- Icons -->
-      <mj-section background-color="#fbfbfb">
+      <!-- Blurb section -->
+      <mj-section background-color="#fafafa" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            ECSE U0/U1 SOCIAL
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fafafa" padding-top="0">
+        <mj-column width="400px">
+          <mj-text mj-class="body">
+            <p>
+            Come meet your 2017-2018 ECSESS council and schmooze around with your fellow first years! Free food will be provided along with a great path to getting involved on campus! U1 rep nomination forms will also be available. The event will occur on Monday, Sept 11 from 11:00 to 14:30 at Trottier 2nd floor.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="150px">
+          <mj-image padding-top="30px" width="128px" src="http://www.myiconfinder.com/uploads/iconsets/256-256-1946ae1aa4487a7b9fa115d13220714c-talk.png"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Blurb section -->
+      <mj-section background-color="#fafafa" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Looking for student reps!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fafafa" padding-top="0">
+        <mj-column width="400px">
+          <mj-text mj-class="body">
+            <p>
+              ECSESS is looking for student representatives for the 2017-2018 year! To sign up, fill in available in front of the lounge (Trottier 1060) and hand it in to any council member before Wednesday, September 13. The selection committee will meet with all applicants on September 14 and 15.
+            </p>
+            <p>
+              Available positions:
+              <ul>
+                <li>U1 Electrical Rep</li>
+                <li>U1 Computer Rep</li>
+                <li>U1 Software Rep</li>
+                <li>U4 Electrical Rep</li>
+                <li>U4 Computer Rep</li>
+              </ul>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="150px">
+          <mj-image padding-top="30px" src="https://cdn2.iconfinder.com/data/icons/business-management-52/96/Artboard_1-256.png"/>
+        </mj-column>
+      </mj-section>
+
+      <!-- Blurb section -->
+      <mj-section background-color="#fafafa" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            PERSWADE
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fafafa" padding-top="0">
+        <mj-column width="400px">
+          <mj-text font-family="Arial, Helvetica, sans-serif" font-size="14px" color="#3B3B3B">
+            <p>
+            We are pleased to invite outstanding eligible students to apply for enrolment in the PERSWADE Program.
+            </p>
+            <p>
+            PERSWADE aims at providing enhanced training opportunities to undergraduate and graduate students as well as Postdoctoral Fellows (PDFs) in the areas of wireless networks and systems (WNS) and their applications. More specifically, PERSWADE aims at improving their job readiness by instilling a well-gauged industrial orientation in their training experience.
+            </p>
+            <p>
+            Additional information on the program can be found on <a href="http://www.create-perswade.ca./">their website.</a>
+            All applications must be submitted by email directly to <a href="mailto:yang.chen@emt.inrs.ca">yang.chen@emt.inrs.ca</a> no later than September 7, 2017.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="150px">
+          <mj-image padding-top="30px" src="http://www.create-perswade.ca/wp-content/uploads/2014/05/logo.png"/>
+        </mj-column>
       </mj-section>
 
       <!-- Social icons -->
-      <mj-section background-color="#191919">
+      <mj-section background-url="https://i.imgur.com/GivD7x9.png">
+      <mj-column width="300px">
+        <mj-text color="white" align="center">
+        To send a blurb, contact ecsess.vpcomm@mcgilleus.ca
+        </mj-text>
+      </mj-column>
       <mj-column>
-          <mj-social
-            mode="horizontal"
-            text-mode="false"
-            display="facebook instagram twitter"
-          />
-        </mj-column>
+        <mj-social
+          text-mode="false"
+          display="facebook instagram twitter"
+          facebook-href="ecsess"
+          instagram-href="ecsess"
+          twitter-href="ecsess"
+        />
+      </mj-column>
       </mj-section>
     </mj-container>
   </mj-body>
