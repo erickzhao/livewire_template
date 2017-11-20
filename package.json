@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/erickzhao/livewire_template#readme",
   "dependencies": {
-    "mjml": "^3.3.3"
+    "mjml": "^4.0.0-alpha.5"
   }
 }
