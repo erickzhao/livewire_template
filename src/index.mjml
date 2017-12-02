@@ -39,13 +39,13 @@
         height="250px"
         background-width="600px"
         background-height="250px"
-        background-url="https://68.media.tumblr.com/778198ad03ab0579af1104f533b1a59c/tumblr_ow3e45Vui21ty31m9o1_1280.png"
+        background-url="https://i.imgur.com/ymOcjEE.png"
         background-color="#2a3448"
         vertical-align="middle"
         >
         <mj-hero-content width="500px">
-          <mj-image padding-bottom="0" width="100%" src="https://i.imgur.com/ubDqupY.png"/>
-           <mj-text mj-class="title">livewire</mj-text>
+          <mj-image alt="ECSESS" padding-bottom="0" width="100%" src="https://i.imgur.com/ubDqupY.png"/>
+           <mj-text mj-class="title">Livewire</mj-text>
         </mj-hero-content>
       </mj-hero>
 
@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          nov 20 to nov 24 // new template edition
+          nov 27 to dec 1 // finals are coming edition
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,23 +68,19 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESS VP Internal Applications</li>
-            <li>Academic Forum</li>
-            <li>ECSESS Banquet</li>
-            <li>Ubisoft Game Lab Competition</li>
-            <li>EUS Equity Inclusive Leadership Workshop</li>
-            <li>EUS Sports Commissioner Applications</li>
+            <li>E-Week 2018 Registration</li>
+            <li>Fall Apparel Sale Update</li>
+            <li>EUS Alcohol Survey</li>
           </ul>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-text mj-class="header">This week</mj-text>
-          <mj-text mj-class="table-of-contents">
-            <ul style="list-style:none;">
-              <li>Monday: Academic Forum </li>
-              <li>Tuesday: Equity Workshop</li>
-              <li>Thursday: ECSESS Banquet</li>
-            </ul>
+          <mj-text mj-class="header">A few words</mj-text>
+          <mj-text>
+            We don't have any events happening this week. Hope you all had fun at banquet! Pictures are coming up soon. Good luck for all your finals everyone! 📝 💯 🎉
+          </mj-text>
+          <mj-text>
+            - Erick
           </mj-text>
         </mj-column>
       </mj-section>
@@ -93,18 +89,22 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSESS VP Internal Applications
+            E-Week 2018 Registration
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-            Applications for ECSESS VP Internal for the Winter 2018 semester are now open. Applications are due <strong>Friday November 24 in the ECSESS Lounge (TR 1060) by 4 PM</strong>. All students in ECSE are encouraged to apply! The position will be selected via selection committee and interviews for shortlisted candidates will take place between November 25-26.
+            Want to join the ECSSea for Planet E-Week? <a href="https://goo.gl/forms/a9GqIfEhuYoi13Dw2">Registration is now open! </a>
+Tickets are $90 in cash or $92.55 online (more information on non-drinking ticket pricing coming soon).
+            <p>
+              For those of you who don't know, E-Week is a yearly event hosted by the EUS to promote friendly departmental competition. ECSESS won two years ago, and is here to take their title back! Come join us for 5 days and 5 nights of friendly, responsible competition!
+            </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/businessman-paper-of-the-application-for-a-job_318-46623.jpg"/>
+          <mj-image src="https://i.imgur.com/HfldVVo.png"/>
         </mj-column>
       </mj-section>
        
@@ -112,7 +112,7 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSESS Banquet
+            Fall Apparel Sale Update
           </mj-text>
         </mj-column>
       </mj-section>
@@ -120,12 +120,12 @@
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              ECSESS presents the swankiest way to celebrate the end of semester with a fine dining experience with friends. Dress up, bring your own wine, and prepare for a night of fun, food, and friends! Three course meal at Montreal's L'Academie St-Denis this semester! Tickets: Regular ECSE 30$ Non-ECSE 35$. For more information on the signup process, check the <a href="https://www.facebook.com/events/895613170597921/">Facebook event</a>.
+               For those of you who have made an order last month for the apparel sale, expect it to arrive this week! You will receive an email with details on picking up your order. Check your emails!
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/suit-and-bow-tie_318-80790.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/hoodie_318-124979.jpg"/>
         </mj-column>
       </mj-section>
 
@@ -133,81 +133,19 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Academic Forum
+            EUS Alcohol Survey
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-            <p>
-            Have ideas about improving your courses and curriculum? Come to the <strong>ECSE Academic Forum</strong> on Monday night to voice your opinions, concerns and ideas at 5:30 in McConnell 204. Pizza will be provided!
-            </p>
+            <p>Please fill out <a href="bit.ly/alcohol-eus">this survey</a> on alcohol use at events among engineering students! Upon completion, you will have the option of including your email for a chance to win <strong>one of several frostbite giftcards.</strong></p>
+            <p>The results of this survey will be used to gain a better understanding of how we can improve students' experiences at our events and what types of events engineering students want to see the EUS running.</p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="http://www.myiconfinder.com/uploads/iconsets/256-256-1946ae1aa4487a7b9fa115d13220714c-talk.png"/>
-        </mj-column>
-      </mj-section>
-
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Ubisoft Game Lab Competition
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              <strong>Game Dev McGill</strong> is looking for programmers and 3D artists to participate in <strong><a href="https://tinyurl.com/y95nwg7b">Ubisoft's Game Lab Competition</a></strong>. The game lab competition is a 10-week student game development competition starting in January. It is a great opportunity to get some serious game development experience under your belt! If you are interested, please fill out <a href="https://goo.gl/forms/YMMGgRaFlOGh08Zu2">this form</a>.
-              <br/>
-              <em>Please note that you must be a full-time student during the winter semester to participate, and that you will be required to put a significant amount of time into the project.</em>
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://seeklogo.com/images/U/ubisoft-black-and-white-logo-B471C0F38E-seeklogo.com.png"/>
-        </mj-column>
-      </mj-section>
-       
-       <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            EUS Equity Inclusive Leadership Workshop
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            Join <strong>EUS Equity</strong> on November 21st from 6:00 PM to 7:30 PM for a workshop on inclusive leadership and creating accessible environments! The talk will be given by Ms. Rachel Desjourdy, an access advisor for the OSD. Food will be provided. 🙂
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://mcgilleus.ca/sites/default/files/portfolio-image/Equity.png"/>
-        </mj-column>
-      </mj-section>
-       
-        <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            EUS Sports Commissioner Applications
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            The EUS's most athletic committee is recruiting!! Do you want to be part of the team that runs soccer, flag football and broomball leagues every year? Want to learn what it takes to install a rink on Lower Field every winter? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmSuQ8DsTcV75ZrUf3YcE_o1JRpd1FwIOrl8DpMn8spACg5A/viewform">Apply to be an EUS Sports Commissioner!</a>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://mcgilleus.ca/sites/default/files/portfolio-image/eussports.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/beer_318-105742.jpg"/>
         </mj-column>
       </mj-section>
 
