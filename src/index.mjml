@@ -32,7 +32,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-     <mj-container>
+    <mj-container>
       <!-- Header -->
       <mj-hero
         mode="fixed-height"
@@ -45,7 +45,7 @@
         >
         <mj-hero-content width="500px">
           <mj-image alt="ECSESS" padding-bottom="0" width="100%" src="https://i.imgur.com/ubDqupY.png"/>
-           <mj-text mj-class="title">Livewire</mj-text>
+          <mj-text mj-class="title">Livewire</mj-text>
         </mj-hero-content>
       </mj-hero>
 
@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          nov 27 to dec 1 // finals are coming edition
+          dec 4 to dec 8 // last one of the year
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,16 +68,16 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>E-Week 2018 Registration</li>
-            <li>Fall Apparel Sale Update</li>
-            <li>EUS Alcohol Survey</li>
+            <li>ECSESS RoboElectronics</li>
+            <li>Reminder: Fall Apparel Sale</li>
+            <li>ECSE Review Sessions</li>
           </ul>
           </mj-text>
         </mj-column>
         <mj-column>
           <mj-text mj-class="header">A few words</mj-text>
           <mj-text>
-            We don't have any events happening this week. Hope you all had fun at banquet! Pictures are coming up soon. Good luck for all your finals everyone! 📝 💯 🎉
+            Last week of classes, last Livewire of the year. Hope everyone enjoys their holiday season. Check out our review sessions if you're having trouble in any classes!
           </mj-text>
           <mj-text>
             - Erick
@@ -89,30 +89,39 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            E-Week 2018 Registration
+            ECSESS RoboElectronics
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-            Want to join the ECSSea for Planet E-Week? <a href="https://goo.gl/forms/a9GqIfEhuYoi13Dw2">Registration is now open! </a>
-Tickets are $90 in cash or $92.55 online (more information on non-drinking ticket pricing coming soon).
-            <p>
-              For those of you who don't know, E-Week is a yearly event hosted by the EUS to promote friendly departmental competition. ECSESS won two years ago, and is here to take their title back! Come join us for 5 days and 5 nights of friendly, responsible competition!
+              RoboElectronics is a student club focused on providing ECSESS students hands-on electronics project experience outside the curriculum. No experience is required to participate in the workshops that we provide. <a href="https://goo.gl/forms/qkSJWTVNHBKXyUVb2">We are currently conducting a survey on the program. Please let us know what you're interested in!</a>
+            
+<p>
+  Furthermore, we are also looking for awesome people to join our team for next semester! The positions we look for include the following:
+            
+              <ul>
+                <li>VP Finance</li>
+                <li>VP Sponsorship</li>
+                <li>Several volunteers to help students</li>
+              </ul>
             </p>
+
+
+It's a great way to gain experience and network with other students - send us an email at ere@mcgilleus.ca if you're interested or have any questions! You can also join our FB group "ECSESS RoboElectronics".
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://i.imgur.com/HfldVVo.png"/>
+          <mj-image src="https://image.freepik.com/free-icon/circuit-board-with-white-detailed-outlines_318-35579.jpg"/>
         </mj-column>
       </mj-section>
-       
-       <!-- Blurb section -->
+      
+      <!-- Blurb section -->
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Fall Apparel Sale Update
+            Reminder: Fall Apparel Sale
           </mj-text>
         </mj-column>
       </mj-section>
@@ -120,7 +129,7 @@ Tickets are $90 in cash or $92.55 online (more information on non-drinking ticke
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-               For those of you who have made an order last month for the apparel sale, expect it to arrive this week! You will receive an email with details on picking up your order. Check your emails!
+              For those of you who have made an order, it has already arrived! Those who haven't picked it up yet, please check your emails! Feel free to let us know if there are any defects with your order.
             </p>
           </mj-text>
         </mj-column>
@@ -133,19 +142,48 @@ Tickets are $90 in cash or $92.55 online (more information on non-drinking ticke
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            EUS Alcohol Survey
+            ECSE Review Sessions
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-            <p>Please fill out <a href="bit.ly/alcohol-eus">this survey</a> on alcohol use at events among engineering students! Upon completion, you will have the option of including your email for a chance to win <strong>one of several frostbite giftcards.</strong></p>
-            <p>The results of this survey will be used to gain a better understanding of how we can improve students' experiences at our events and what types of events engineering students want to see the EUS running.</p>
+Finals are approaching quickly and ECSESS and EPTS have got you covered with free review sessions! Check them out here:
+
+            <ul>
+              <li>
+                <a href="https://www.facebook.com/events/911171655698736/">MATH 133</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/311188259385191/">MATH 140</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/1574702295908764/">PHYS 131</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/386002101839114/">ECSE 200</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/306530569861073/">ECSE 202</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/383566748765247/">ECSE 206/306</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/1855175411459409/">ECSE 251</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/1981985838756264/">ECSE 353</a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/events/376636856123883/">ECSE 361/362</a>
+              </li>
+            </ul>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/beer_318-105742.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/books-stack-of-three_318-45543.jpg"/>
         </mj-column>
       </mj-section>
 
