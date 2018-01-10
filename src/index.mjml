@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          dec 4 to dec 8 // last one of the year
+          jan 8 to jan 12 // happy 2018!
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,19 +68,19 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESS RoboElectronics</li>
-            <li>Reminder: Fall Apparel Sale</li>
-            <li>ECSE Review Sessions</li>
+            <li>ECSESScapade 2018</li>
+            <li>ECSE Internship Open House</li>
+            <li>McGill Takes Igloofest</li>
           </ul>
           </mj-text>
         </mj-column>
         <mj-column>
           <mj-text mj-class="header">A few words</mj-text>
           <mj-text>
-            Last week of classes, last Livewire of the year. Hope everyone enjoys their holiday season. Check out our review sessions if you're having trouble in any classes!
+            Welcome back to everyone! Hope you're all well-rested and ready to kill the semester 💯. (And for those of you doing E-Week, please stay hydrated!)
           </mj-text>
           <mj-text>
-            - Erick
+            - Erick Zhao, VP Communications
           </mj-text>
         </mj-column>
       </mj-section>
@@ -89,31 +89,27 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSESS RoboElectronics
+            ECSESScapade 2018
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-              RoboElectronics is a student club focused on providing ECSESS students hands-on electronics project experience outside the curriculum. No experience is required to participate in the workshops that we provide. <a href="https://goo.gl/forms/qkSJWTVNHBKXyUVb2">We are currently conducting a survey on the program. Please let us know what you're interested in!</a>
-            
-<p>
-  Furthermore, we are also looking for awesome people to join our team for next semester! The positions we look for include the following:
-            
-              <ul>
-                <li>VP Finance</li>
-                <li>VP Sponsorship</li>
-                <li>Several volunteers to help students</li>
-              </ul>
-            </p>
-
-
-It's a great way to gain experience and network with other students - send us an email at ere@mcgilleus.ca if you're interested or have any questions! You can also join our FB group "ECSESS RoboElectronics".
+              The annual ECSESS industry trip is just around the corner and this year we're going back to TORONTO!<br/> 
+The trip is taking place from February 1st - 3rd so clear your schedules! We will be visiting different companies around Toronto so this is your chance to see what lingers beyond Montreal!<br/>
+Tickets cover the cost of transportation and accomodations in Toronto. We also have plenty of time to explore all the fun that the 6ix has to offer!<br/>
+         <ul>
+            <li>Companies: Amazon, RBC Digital, TBD</li>
+           <li>Tickets: 75$</li>
+            </ul>
+Payment will be accepted in cash in Trottier 1060 starting this week and online through Yapsody starting next week.
+<br/>
+Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/circuit-board-with-white-detailed-outlines_318-35579.jpg"/>
+          <mj-image src="https://pbs.twimg.com/profile_images/689871697915211776/rEJ25m5i_400x400.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -121,7 +117,7 @@ It's a great way to gain experience and network with other students - send us an
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Reminder: Fall Apparel Sale
+            ECSE Internship Open House
           </mj-text>
         </mj-column>
       </mj-section>
@@ -129,61 +125,36 @@ It's a great way to gain experience and network with other students - send us an
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              For those of you who have made an order, it has already arrived! Those who haven't picked it up yet, please check your emails! Feel free to let us know if there are any defects with your order.
+              The Engineering Career Centre is holding an ECSE Internship Open house event on Thursday January 18th in FDA 6B.<br/>
+              An advisor from the ECC office will speak for a few minutes about the Engineering Career Centre/Engineering Internship Program.<br/>
+              Following this, there will be students speaking about their internships or other ECSE related work/research experiences. Refreshments will be provided! <br/>
+              If you're interested in speaking about your own internship experience, please reach out to Internship Advisor, Ms Debra Hamel: debra.hamel@mcgill.ca for more information.
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/hoodie_318-124979.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/business-job-search-symbol_318-68773.jpg"/>
         </mj-column>
       </mj-section>
-
+      
       <!-- Blurb section -->
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSE Review Sessions
+            McGill takes Igloofest
           </mj-text>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fefefe">
         <mj-column width="350px">
           <mj-text mj-class="body">
-Finals are approaching quickly and ECSESS and EPTS have got you covered with free review sessions! Check them out here:
-
-            <ul>
-              <li>
-                <a href="https://www.facebook.com/events/911171655698736/">MATH 133</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/311188259385191/">MATH 140</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/1574702295908764/">PHYS 131</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/386002101839114/">ECSE 200</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/306530569861073/">ECSE 202</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/383566748765247/">ECSE 206/306</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/1855175411459409/">ECSE 251</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/1981985838756264/">ECSE 353</a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/events/376636856123883/">ECSE 361/362</a>
-              </li>
-            </ul>
+            <p>
+              Igloofest, one of Montreal's greatest parties, deserves some of Montreal's greatest partyers! For the third year running, the Engineering Social Committee will be saving you money on what's already looking like one of the best nights of the winter. This year, McGill students of all faculties will storm the dancefloor for OLIVER HELDENS at Igloofest on January 26th!! The first 200 people to reserve tickets via this <a href="https://goo.gl/forms/Q2SgND9MZdPpUmez1">Google Form</a> will have their tickets reserved for pick up during the week of January 8-12th. Tickets will be sold for $23 ($5 off the current online rate), and all tickets must be paid for in cash at our tabling hours (<a href="https://www.facebook.com/events/1667023923357700/">see Facebook event</a>). Cheers!
+            </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/books-stack-of-three_318-45543.jpg"/>
+          <mj-image src="https://cdn.ehcanadatravel.com/images/cover/event/723/thumb_158cd94b1c6589178f7b36c40828dd73.png"/>
         </mj-column>
       </mj-section>
 
