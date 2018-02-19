@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          jan 8 to jan 12 // happy 2018!
+          feb 19 to 23 - JUST HOLD ON, IT'S MARCH BREAK SOON
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,48 +68,24 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESScapade 2018</li>
-            <li>ECSE Internship Open House</li>
-            <li>McGill Takes Igloofest</li>
-          </ul>
+            <li>Winter Apparel Sale</li>
+            <li>ECSE First-Year Social</li>
+            <li>Pancake Breakfast</li>
+            <li>DPM Social</li>
+            <li>FIFA Tournament</li>
+            <li>Demystifying Graphics in Video Games</li>
+          </ol>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-text mj-class="header">A few words</mj-text>
+          <mj-text mj-class="header">THIS WEEK</mj-text>
           <mj-text>
-            Welcome back to everyone! Hope you're all well-rested and ready to kill the semester 💯. (And for those of you doing E-Week, please stay hydrated!)
-          </mj-text>
-          <mj-text>
-            - Erick Zhao, VP Communications
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            ECSESScapade 2018
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-              The annual ECSESS industry trip is just around the corner and this year we're going back to TORONTO!<br/> 
-The trip is taking place from February 1st - 3rd so clear your schedules! We will be visiting different companies around Toronto so this is your chance to see what lingers beyond Montreal!<br/>
-Tickets cover the cost of transportation and accomodations in Toronto. We also have plenty of time to explore all the fun that the 6ix has to offer!<br/>
-         <ul>
-            <li>Companies: Amazon, RBC Digital, TBD</li>
-           <li>Tickets: 75$</li>
+            <ul style="list-style:none; padding-left: 0;">
+              <li>Thu: Pancake Breakfast</li>
+              <li>Thu: First-Year Social</li>
+              <li>Thu: Graphics in Video Games Talk</li>
             </ul>
-Payment will be accepted in cash in Trottier 1060 starting this week and online through Yapsody starting next week.
-<br/>
-Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
           </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://pbs.twimg.com/profile_images/689871697915211776/rEJ25m5i_400x400.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -117,7 +93,7 @@ Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSE Internship Open House
+            Winter Apparel Sale
           </mj-text>
         </mj-column>
       </mj-section>
@@ -125,15 +101,19 @@ Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              The Engineering Career Centre is holding an ECSE Internship Open house event on Thursday January 18th in FDA 6B.<br/>
-              An advisor from the ECC office will speak for a few minutes about the Engineering Career Centre/Engineering Internship Program.<br/>
-              Following this, there will be students speaking about their internships or other ECSE related work/research experiences. Refreshments will be provided! <br/>
-              If you're interested in speaking about your own internship experience, please reach out to Internship Advisor, Ms Debra Hamel: debra.hamel@mcgill.ca for more information.
+Missed your chance last semester on getting awesome engineering clothing? Now's your chance because it's back! Unsure on what size to pick and what the embroidery will look like? Pass by TR1060 to check it out!
+             
+<ul>
+  <li><a href="">Facebook event</a></li>
+  <li><a href="http://tinyurl.com/w18ecsess">Order form</a></li>        
+</ul>             
+We will be accepting payments and orders until <strong>March 4th @4PM</strong>! Check out the Facebook page this week for more details, or email <a href="mailto:ecsess.vpadmin@mcgilleus.ca">ecsess.vpadmin@mcgilleus.ca</a> for any other inquiry.
+
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/business-job-search-symbol_318-68773.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/hoodie_318-132618.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -141,7 +121,7 @@ Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            McGill takes Igloofest
+            ECSE First-Year Social: <br/> Pizza and Smash
           </mj-text>
         </mj-column>
       </mj-section>
@@ -149,19 +129,116 @@ Sign-up <a href="https://tinyurl.com/ECSESSCAPADE2018">here</a>!
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Igloofest, one of Montreal's greatest parties, deserves some of Montreal's greatest partyers! For the third year running, the Engineering Social Committee will be saving you money on what's already looking like one of the best nights of the winter. This year, McGill students of all faculties will storm the dancefloor for OLIVER HELDENS at Igloofest on January 26th!! The first 200 people to reserve tickets via this <a href="https://goo.gl/forms/Q2SgND9MZdPpUmez1">Google Form</a> will have their tickets reserved for pick up during the week of January 8-12th. Tickets will be sold for $23 ($5 off the current online rate), and all tickets must be paid for in cash at our tabling hours (<a href="https://www.facebook.com/events/1667023923357700/">see Facebook event</a>). Cheers!
+              Love free pizza, smash or meeting new people? All of the above? Come on down to the ECSESS Lounge (Trottier Room #1060) next Thursday (Feb 22nd) to socialize with your fellow ECSESS First Years over a few pies and a game of Super Smash Bros. The event will be running from 4PM - 7PM and pizza will be available as long as supply lasts.
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://cdn.ehcanadatravel.com/images/cover/event/723/thumb_158cd94b1c6589178f7b36c40828dd73.png"/>
+          <mj-image src="http://www.smashbros.com/images/og/mario.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Pancake Breakfast
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Do you get hungry in the morning before your midterms? Boy, do we have something for you! Come to Trottier 1st floor on Thursday morning (from 8 AM to 11 AM) to get some delicious pancakes! Prices are as usual:
+              
+              <ul>
+                <li>2 pancakes for $1 🥞🥞</li>
+								<li>5 pancakes for $2 🥞🥞🥞🥞🥞</li>
+								<li>Toppings $0.50 🍓 🍫 🍌</li>
+              </ul>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://bigoven-res.cloudinary.com/image/upload/t_recipe-480/fluffy-pancakes-52.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            DPM Social
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Are you overwhelmed by DPM? Does your robot randomly spin in circles? Are you spending more time in the lab than your house?
+<br/><br/>
+Then come down to the Trottier Mezzanine on Wednesday February 28th at 6:00pm to destress at DPM social! There will be free pizza and you'll get to hear some tips from the TAs and talks by your profs!
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://lc-imageresizer-live-s.legocdn.com//resize?mode=landscape&size=incredible&ratio=1&imageUrl=https://lc-www-live-s.legocdn.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/robots/product_ev3erstorm_square.png?l.r2=1372328963"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            FIFA Tournament
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              ECSESS FIFA tournament is back! Prove your worth and secure your place as the top footballer in Trottier. Sign up on our <a href="https://goo.gl/forms/sm09mcejXgJP6T9q2">Google Form</a> and pay your $2 entrance fee in the lounge! Sign up ends February 27th. More details coming soon!
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://static-s.aa-cdn.net/img/gp/20600006234957/g12AAB9UDF9LVJZYdO6lPdLIop30Y93iIart6wwUcPvX2GC8BCMCFFRkKheZyc6BHf90=w300?v=1"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Graphics in Video Games Talk
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Curious about computer graphics in video games? 
+Come to Game Dev McGill's tech talk this Thursday, February 22 6:30-7:30PM at the EUS Common Room.
+              <br/><br/>
+We will be going over basic concepts related to computer graphics in video games. Even if you just want to program games, getting a basic idea of what is going on behind the scenes to render a frame is very useful! 
+For more information, check out our <a href="https://www.facebook.com/events/2055851814694608/">Facebook event</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/14469650_678408922308491_8153209389057027071_n.png?oh=68f02986086053a05c0cea45f21c1cef&oe=5B0FAA7F"/>
         </mj-column>
       </mj-section>
 
+      
       <!-- Social icons -->
       <mj-section background-color="#00ba3a">
       <mj-column width="300px">
-        <mj-text color="white" align="center">
+        <mj-text color="black" align="center">
         To send a blurb, contact ecsess.vpcomm@mcgilleus.ca
         </mj-text>
       </mj-column>
