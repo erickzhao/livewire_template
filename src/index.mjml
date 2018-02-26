@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          feb 19 to 23 - JUST HOLD ON, IT'S MARCH BREAK SOON
+          feb 26 - mar 2 : FOLLOW SAAD ON SOUNDCLOUD EDITION 💯 😤 ✊
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,12 +68,11 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
+            <li>ECSESS ELECTIONS</li>
             <li>Winter Apparel Sale</li>
-            <li>ECSE First-Year Social</li>
-            <li>Pancake Breakfast</li>
             <li>DPM Social</li>
             <li>FIFA Tournament</li>
-            <li>Demystifying Graphics in Video Games</li>
+            <li>ConFoo volunteering</li>
           </ol>
           </mj-text>
         </mj-column>
@@ -81,11 +80,51 @@
           <mj-text mj-class="header">THIS WEEK</mj-text>
           <mj-text>
             <ul style="list-style:none; padding-left: 0;">
-              <li>Thu: Pancake Breakfast</li>
-              <li>Thu: First-Year Social</li>
-              <li>Thu: Graphics in Video Games Talk</li>
+              <li>Tue: DPM Social</li>
             </ul>
           </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            ECSESS ELECTIONS
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Are you interested in joining ECSESS for the 2018-2019 school year? Well now is your chance! Nomination period for the following positions on the ECSESS council begins TODAY and will run until March 9th:
+              <ul>
+                <li>U2-U4 Electrical Class Rep</li>
+                <li>U2-U4 Computer Class Rep</li>
+                <li>U2-U4 Software Class Rep</li>
+                <li>VP Academic</li>
+                <li>VP Admin</li>
+                <li>VP Communications</li>
+                <li>VP External</li>
+                <li>VP Finance</li>
+                <li>VP Internal</li>
+                <li>VP TechDev</li>
+                <li>President</li>
+              </ul>
+
+              Nomination forms will be available ONLINE
+              <a href="http://bit.ly/2ozzqjN">here</a>.
+              <br/>
+              For details on what each position entails, visit <a href="https://ecsess.mcgilleus.ca/index.php/council/">our website here</a>.
+<br/>
+              If you have further questions, please email <a href="mailto:ecsess.dro@mcgilleus.ca">ecsess.dro@mcgilleus.ca</a>.
+
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/28378834_1670669576353830_6538791369661950491_n.png?oh=c664aba3ef2b2aa8d946e51a799dc1d8&oe=5B0114A3"/>
         </mj-column>
       </mj-section>
       
@@ -104,7 +143,7 @@
 Missed your chance last semester on getting awesome engineering clothing? Now's your chance because it's back! Unsure on what size to pick and what the embroidery will look like? Pass by TR1060 to check it out!
              
 <ul>
-  <li><a href="">Facebook event</a></li>
+  <li><a href="tinyurl.com/fbapparelsale">Facebook event</a></li>
   <li><a href="http://tinyurl.com/w18ecsess">Order form</a></li>        
 </ul>             
 We will be accepting payments and orders until <strong>March 4th @4PM</strong>! Check out the Facebook page this week for more details, or email <a href="mailto:ecsess.vpadmin@mcgilleus.ca">ecsess.vpadmin@mcgilleus.ca</a> for any other inquiry.
@@ -114,54 +153,6 @@ We will be accepting payments and orders until <strong>March 4th @4PM</strong>! 
         </mj-column>
         <mj-column width="200px">
           <mj-image src="https://image.freepik.com/free-icon/hoodie_318-132618.jpg"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            ECSE First-Year Social: <br/> Pizza and Smash
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              Love free pizza, smash or meeting new people? All of the above? Come on down to the ECSESS Lounge (Trottier Room #1060) next Thursday (Feb 22nd) to socialize with your fellow ECSESS First Years over a few pies and a game of Super Smash Bros. The event will be running from 4PM - 7PM and pizza will be available as long as supply lasts.
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="http://www.smashbros.com/images/og/mario.jpg"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Pancake Breakfast
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              Do you get hungry in the morning before your midterms? Boy, do we have something for you! Come to Trottier 1st floor on Thursday morning (from 8 AM to 11 AM) to get some delicious pancakes! Prices are as usual:
-              
-              <ul>
-                <li>2 pancakes for $1 🥞🥞</li>
-								<li>5 pancakes for $2 🥞🥞🥞🥞🥞</li>
-								<li>Toppings $0.50 🍓 🍫 🍌</li>
-              </ul>
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://bigoven-res.cloudinary.com/image/upload/t_recipe-480/fluffy-pancakes-52.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -179,7 +170,7 @@ We will be accepting payments and orders until <strong>March 4th @4PM</strong>! 
             <p>
               Are you overwhelmed by DPM? Does your robot randomly spin in circles? Are you spending more time in the lab than your house?
 <br/><br/>
-Then come down to the Trottier Mezzanine on Wednesday February 28th at 6:00pm to destress at DPM social! There will be free pizza and you'll get to hear some tips from the TAs and talks by your profs!
+Then come down to the Trottier Mezzanine on Tuesday, February 27th at 5:00pm to destress at DPM social! There will be free pizza and you'll get to hear some tips from the TAs and talks by your profs!
             </p>
           </mj-text>
         </mj-column>
@@ -213,7 +204,7 @@ Then come down to the Trottier Mezzanine on Wednesday February 28th at 6:00pm to
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Graphics in Video Games Talk
+            ConFoo Volunteering
           </mj-text>
         </mj-column>
       </mj-section>
@@ -221,16 +212,26 @@ Then come down to the Trottier Mezzanine on Wednesday February 28th at 6:00pm to
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Curious about computer graphics in video games? 
-Come to Game Dev McGill's tech talk this Thursday, February 22 6:30-7:30PM at the EUS Common Room.
-              <br/><br/>
-We will be going over basic concepts related to computer graphics in video games. Even if you just want to program games, getting a basic idea of what is going on behind the scenes to render a frame is very useful! 
-For more information, check out our <a href="https://www.facebook.com/events/2055851814694608/">Facebook event</a>.
+              ConFoo is a Montreal-based conference that covers all web technologies and related topics. Here are some of the things you'll gain by getting involved:
+              <ul>
+                <li>Attend conference sessions on new, exciting tech given by international industry experts.</li>
+                <li>Meet and network with members of the web community, forward-thinking tech companies, and our set of specialized speakers.</li>
+                <li>Enjoy all the perks of attending the conference: delicious food throughout the day, free t-shirts, and cool swag.</li>
+                <li>Lunch is on us.</li>
+              </ul>
+
+ We're looking for students who can make a minimum 1 full-day commitment. Students who volunteer on March 5-6 will be helping with setup for the conference.  Students who volunteer from March 7-9 will be stationed in the speaker sessions and around the conference venue to help with attendee requests.
+<br/>
+<br/>
+For more information about the convention, please visit www.confoo.ca/en
+<br/>
+<br/>
+If you're interested, please contact Marc Paquin at <a href="mailto:mpaquin@confoo.ca">mpaquin@confoo.ca</a>.
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/14469650_678408922308491_8153209389057027071_n.png?oh=68f02986086053a05c0cea45f21c1cef&oe=5B0FAA7F"/>
+          <mj-image src="https://confoo.ca/images/logos/download/confoo_color.png"/>
         </mj-column>
       </mj-section>
 
