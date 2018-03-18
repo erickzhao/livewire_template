@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          feb 26 - mar 2 : FOLLOW SAAD ON SOUNDCLOUD EDITION 💯 😤 ✊
+          mar 12 - 16 : can we have another week off?
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,11 +68,14 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESS ELECTIONS</li>
-            <li>Winter Apparel Sale</li>
-            <li>DPM Social</li>
-            <li>FIFA Tournament</li>
-            <li>ConFoo volunteering</li>
+            <li>ECSESS Presidential Debates</li>
+            <li>Professor Speaker Series</li>
+            <li>Presentation workshop</li>
+            <li>Brunch and Code</li>
+            <li>Coffee House Signups</li>
+            <li>EUS IT Applications</li>
+            <li>Pong of Thrones</li>
+            <li>Queer Engineer Speed Networking</li>
           </ol>
           </mj-text>
         </mj-column>
@@ -80,7 +83,10 @@
           <mj-text mj-class="header">THIS WEEK</mj-text>
           <mj-text>
             <ul style="list-style:none; padding-left: 0;">
-              <li>Tue: DPM Social</li>
+              <li>Tue: Queer Engineer Speed Networking</li>
+              <li>Wed: Presentation Workshop</li>
+              <li>Thu: JC Pong of Thrones</li>
+              <li>Fri: Brunch and Code</li>
             </ul>
           </mj-text>
         </mj-column>
@@ -90,7 +96,7 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSESS ELECTIONS
+            ECSESS Presidential Debates
           </mj-text>
         </mj-column>
       </mj-section>
@@ -98,27 +104,7 @@
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Are you interested in joining ECSESS for the 2018-2019 school year? Well now is your chance! Nomination period for the following positions on the ECSESS council begins TODAY and will run until March 9th:
-              <ul>
-                <li>U2-U4 Electrical Class Rep</li>
-                <li>U2-U4 Computer Class Rep</li>
-                <li>U2-U4 Software Class Rep</li>
-                <li>VP Academic</li>
-                <li>VP Admin</li>
-                <li>VP Communications</li>
-                <li>VP External</li>
-                <li>VP Finance</li>
-                <li>VP Internal</li>
-                <li>VP TechDev</li>
-                <li>President</li>
-              </ul>
-
-              Nomination forms will be available ONLINE
-              <a href="http://bit.ly/2ozzqjN">here</a>.
-              <br/>
-              For details on what each position entails, visit <a href="https://ecsess.mcgilleus.ca/index.php/council/">our website here</a>.
-<br/>
-              If you have further questions, please email <a href="mailto:ecsess.dro@mcgilleus.ca">ecsess.dro@mcgilleus.ca</a>.
+              ECSESS Presidential Debates will be held Monday March 19th at 5:30pm on the second floor of Trottier. This is your chance to ask questions to the candidates and get informed!
 
             </p>
           </mj-text>
@@ -132,7 +118,7 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Winter Apparel Sale
+            Professor Speaker Series - AI Edition
           </mj-text>
         </mj-column>
       </mj-section>
@@ -140,19 +126,15 @@
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-Missed your chance last semester on getting awesome engineering clothing? Now's your chance because it's back! Unsure on what size to pick and what the embroidery will look like? Pass by TR1060 to check it out!
-             
-<ul>
-  <li><a href="tinyurl.com/fbapparelsale">Facebook event</a></li>
-  <li><a href="http://tinyurl.com/w18ecsess">Order form</a></li>        
-</ul>             
-We will be accepting payments and orders until <strong>March 4th @4PM</strong>! Check out the Facebook page this week for more details, or email <a href="mailto:ecsess.vpadmin@mcgilleus.ca">ecsess.vpadmin@mcgilleus.ca</a> for any other inquiry.
+Professor Speaker Series is back and this semester, the theme is AI! It's happening on Thursday, March 15th from 11:30 to 12:30 in Trottier 1090.
+              
+              <br/><br/>Professor Mark Coates will be speaking from 11:30 to 12:00 on "Machine Learning for Networks" and Professor Brett Meyer will be speaking from 12:00 to 12:30 on "Neural Networks Designing Neural Networks." Food will be included! Check out the Facebook event <a href="https://www.facebook.com/events/1668630263182944/">here</a>.
 
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/hoodie_318-132618.jpg"/>
+          <mj-image src="https://image.freepik.com/free-vector/digital-particle-technology-face-for-artifiticial-intelligence-concept_1017-11831.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -160,7 +142,7 @@ We will be accepting payments and orders until <strong>March 4th @4PM</strong>! 
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            DPM Social
+            Presentation Workshop
           </mj-text>
         </mj-column>
       </mj-section>
@@ -168,70 +150,153 @@ We will be accepting payments and orders until <strong>March 4th @4PM</strong>! 
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Are you overwhelmed by DPM? Does your robot randomly spin in circles? Are you spending more time in the lab than your house?
+              Our very own Dirk Dubois (previous head TA for ECSE 211 and recurring judge of DP and DPM presentations) is giving a workshop on presentation skills. Come learn what you need to get those marks you've been missing out on! There will also be pizza so you can't use buying a lunch as an excuse for missing this workshop!
+              <br/><br/>
+While this workshop is done with ECSE classes in mind, the skills you'll learn here can be useful for any presentation, all are welcome to come regardless of what you study. The workshop will be in Trottier 2120 on Wednesday March 14th (this Wednesday) at 12:30-2:00pm. Check out the <a href="https://www.facebook.com/events/1182015715267061/">Facebook event</a>!
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://image.freepik.com/free-icon/business-presentation_318-81822.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Brunch and Code
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              ECSESS is here with a new event: Maybe it’s Ice Code Beer or maybe it’s Rum and Code, the point is there’s coding and theres alcohol! The event is taking place in the Common Room from noon to 2:30 this Friday, March 16th. Come out and build something cool!
 <br/><br/>
-Then come down to the Trottier Mezzanine on Tuesday, February 27th at 5:00pm to destress at DPM social! There will be free pizza and you'll get to hear some tips from the TAs and talks by your profs!
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://lc-imageresizer-live-s.legocdn.com//resize?mode=landscape&size=incredible&ratio=1&imageUrl=https://lc-www-live-s.legocdn.com/r/www/r/mindstorms/-/media/franchises/mindstorms%202014/robots/product_ev3erstorm_square.png?l.r2=1372328963"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            FIFA Tournament
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              ECSESS FIFA tournament is back! Prove your worth and secure your place as the top footballer in Trottier. Sign up on our <a href="https://goo.gl/forms/sm09mcejXgJP6T9q2">Google Form</a> and pay your $2 entrance fee in the lounge! Sign up ends February 27th. More details coming soon!
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://static-s.aa-cdn.net/img/gp/20600006234957/g12AAB9UDF9LVJZYdO6lPdLIop30Y93iIart6wwUcPvX2GC8BCMCFFRkKheZyc6BHf90=w300?v=1"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            ConFoo Volunteering
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              ConFoo is a Montreal-based conference that covers all web technologies and related topics. Here are some of the things you'll gain by getting involved:
+The event is free entrance and there are prizes available to be won!
               <ul>
-                <li>Attend conference sessions on new, exciting tech given by international industry experts.</li>
-                <li>Meet and network with members of the web community, forward-thinking tech companies, and our set of specialized speakers.</li>
-                <li>Enjoy all the perks of attending the conference: delicious food throughout the day, free t-shirts, and cool swag.</li>
-                <li>Lunch is on us.</li>
+                <li><a href="https://www.facebook.com/events/157135604990376/">Facebook Event </a></li>
+                <li><a href="https://goo.gl/forms/kS1O8c7naj4cblZm2">Sign ups</a></li>
+              </ul>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://image.freepik.com/free-icon/programming-code_318-84673.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Coffee House Signups
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              ECSESS is back again with its ever popular coffee house! We’ll spend the evening chillin' out maxin' relaxin' all cool listening to your friends and peers show us what they got! It’s sure to be a great time with coffee and snacks provided to keep you cozy.
+<br/><br/>
+If you’d like to perform please fill out the <a href="https://goo.gl/forms/n9Y6YCDb1HyBccYN2">following form.</a>
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://image.freepik.com/free-icon/hot-coffee-rounded-cup-on-a-plate-from-side-view_318-54143.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            EUS IT Applications
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              The application period is now open for positions on the EUS IT Committee for the upcoming academic year! The positions available are those of IT Director, Webmaster, Wiki Curator, and TeN Manager. Each position is a fun way to develop your technical experience through real-world projects.
+              <ul>
+                <li>Webmaster - develop and maintain the EUS's network of 40+ websites; manage the server-side setup of *.mcgilleus.ca</li>
+                <li>TeN Manager - curate content for the EUS's digital signage network; maintain the hardware of the network (server set-up, computers and monitors)
+                </li>
+                <li>Wiki Curator - write articles and encourage others to contribute articles to the growing repository of EUS knowledge, the EUS Wiki</li>
+                <li>IT Director - administrate the EUS' servers; come up with new projects that can benefit the EUS; manage the IT Committee in all its projects
+                </li>
+              </ul>
+A position on the IT Committee is one of the most rewarding involvement opportunities in the EUS. For more information, see the <a href="http://wiki.mcgilleus.ca/index.php/IT_Committee">IT Committee Wiki Article</a> or email <a href="mailto:it.director@mcgilleus.ca">it.director@mcgilleus.ca</a>. The brief application form is available here, and is due by Tuesday, March 13th (for IT Director) or Tuesday, March 20th (all other positions).
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://mcgilleus.ca/sites/default/files/Header%20with%20words.png"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Junior Council Pong of Thrones
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Did Power Hour leave your competitive side wanting more? Are you just looking to have some fun with your friends? Whether you're gunning for the throne or just looking to enjoy a night among your clan, The Pong of Thrones is the perfect way to have some post-midterm fun. Only 5$ per team!
+<br/><br/>
+              <ul>
+                <li>When: March 15, 2018. 5:30 PM</li>
+                <li>Where: EUS Common Room</li>
               </ul>
 
- We're looking for students who can make a minimum 1 full-day commitment. Students who volunteer on March 5-6 will be helping with setup for the conference.  Students who volunteer from March 7-9 will be stationed in the speaker sessions and around the conference venue to help with attendee requests.
-<br/>
-<br/>
-For more information about the convention, please visit www.confoo.ca/en
-<br/>
-<br/>
-If you're interested, please contact Marc Paquin at <a href="mailto:mpaquin@confoo.ca">mpaquin@confoo.ca</a>.
+
+ 
+<a href="https://www.facebook.com/events/1871678929560792/">Link to Facebook event with more information.</a>
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://confoo.ca/images/logos/download/confoo_color.png"/>
+          <mj-image src="https://mcgilleus.ca/sites/default/files/portfolio-image/EUSjc.png"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Queer Engineer Speed Networking
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              Want to meet incredible professionals, thriving within a cis male dominated field? Want to learn about career opportunities and companies inclusive to all? Want to connect with people working hard in Engineering?
+<br/><br/>
+If your answer is Yes to any of those questions, Queer Engineer welcomes you to our very special event taking place on March 13 2018 from 6h30 to 8h30pm.
+
+<br/><br/>
+We are trying to host a networking/panel event with LGBTQ+ professionals to meet, discuss and build connections for your future. Food and drinks will be provided.
+
+<br/><br/>
+For more information please visit the Facebook event page <a href="https://www.facebook.com/events/152480882120521/?ti=cl">here</a>. If you have any questions email us at <a href="mailto:queer.engineer@mcgilleus.ca">queer.engineer@mcgilleus.ca</a>.
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/10421476_732773273462093_4282685504903428821_n.jpg?oh=6116cb8a8ced3bc007118784f5dbb3dc&oe=5B4D5D0C"/>
         </mj-column>
       </mj-section>
 
