@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          mar 12 - 16 : can we have another week off?
+          mar 19 - 23 : midterms 2: electric boogaloo
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,14 +68,14 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESS Presidential Debates</li>
-            <li>Professor Speaker Series</li>
-            <li>Presentation workshop</li>
-            <li>Brunch and Code</li>
+            <li>ECSESS Elections - Voting Period</li>
             <li>Coffee House Signups</li>
             <li>EUS IT Applications</li>
-            <li>Pong of Thrones</li>
-            <li>Queer Engineer Speed Networking</li>
+            <li>Blues Pub Manager Applications</li>
+            <li>Microsoft Azure Workshop</li>
+            <li>Engineers Without Borders Week</li>
+            <li>NOBE Business Case Competition</li>
+            <li>POWE Ericsson Tour</li>
           </ol>
           </mj-text>
         </mj-column>
@@ -83,10 +83,9 @@
           <mj-text mj-class="header">THIS WEEK</mj-text>
           <mj-text>
             <ul style="list-style:none; padding-left: 0;">
-              <li>Tue: Queer Engineer Speed Networking</li>
-              <li>Wed: Presentation Workshop</li>
-              <li>Thu: JC Pong of Thrones</li>
-              <li>Fri: Brunch and Code</li>
+              <li>Wed: VOTE</li>
+              <li>Thu: VOTE</li>
+              <li>Fri: VOTE</li>
             </ul>
           </mj-text>
         </mj-column>
@@ -96,7 +95,7 @@
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            ECSESS Presidential Debates
+            ECSESS Elections - Voting Period
           </mj-text>
         </mj-column>
       </mj-section>
@@ -104,87 +103,13 @@
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              ECSESS Presidential Debates will be held Monday March 19th at 5:30pm on the second floor of Trottier. This is your chance to ask questions to the candidates and get informed!
+              Reminder that the voting period for elections run from Wednesday to Friday! Remember to vote for the next president and your class representatives!
 
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
           <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/28378834_1670669576353830_6538791369661950491_n.png?oh=c664aba3ef2b2aa8d946e51a799dc1d8&oe=5B0114A3"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Professor Speaker Series - AI Edition
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-Professor Speaker Series is back and this semester, the theme is AI! It's happening on Thursday, March 15th from 11:30 to 12:30 in Trottier 1090.
-              
-              <br/><br/>Professor Mark Coates will be speaking from 11:30 to 12:00 on "Machine Learning for Networks" and Professor Brett Meyer will be speaking from 12:00 to 12:30 on "Neural Networks Designing Neural Networks." Food will be included! Check out the Facebook event <a href="https://www.facebook.com/events/1668630263182944/">here</a>.
-
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-vector/digital-particle-technology-face-for-artifiticial-intelligence-concept_1017-11831.jpg"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Presentation Workshop
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              Our very own Dirk Dubois (previous head TA for ECSE 211 and recurring judge of DP and DPM presentations) is giving a workshop on presentation skills. Come learn what you need to get those marks you've been missing out on! There will also be pizza so you can't use buying a lunch as an excuse for missing this workshop!
-              <br/><br/>
-While this workshop is done with ECSE classes in mind, the skills you'll learn here can be useful for any presentation, all are welcome to come regardless of what you study. The workshop will be in Trottier 2120 on Wednesday March 14th (this Wednesday) at 12:30-2:00pm. Check out the <a href="https://www.facebook.com/events/1182015715267061/">Facebook event</a>!
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/business-presentation_318-81822.jpg"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Brunch and Code
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              ECSESS is here with a new event: Maybe it’s Ice Code Beer or maybe it’s Rum and Code, the point is there’s coding and theres alcohol! The event is taking place in the Common Room from noon to 2:30 this Friday, March 16th. Come out and build something cool!
-<br/><br/>
-The event is free entrance and there are prizes available to be won!
-              <ul>
-                <li><a href="https://www.facebook.com/events/157135604990376/">Facebook Event </a></li>
-                <li><a href="https://goo.gl/forms/kS1O8c7naj4cblZm2">Sign ups</a></li>
-              </ul>
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/programming-code_318-84673.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -229,8 +154,6 @@ If you’d like to perform please fill out the <a href="https://goo.gl/forms/n9Y
                 <li>TeN Manager - curate content for the EUS's digital signage network; maintain the hardware of the network (server set-up, computers and monitors)
                 </li>
                 <li>Wiki Curator - write articles and encourage others to contribute articles to the growing repository of EUS knowledge, the EUS Wiki</li>
-                <li>IT Director - administrate the EUS' servers; come up with new projects that can benefit the EUS; manage the IT Committee in all its projects
-                </li>
               </ul>
 A position on the IT Committee is one of the most rewarding involvement opportunities in the EUS. For more information, see the <a href="http://wiki.mcgilleus.ca/index.php/IT_Committee">IT Committee Wiki Article</a> or email <a href="mailto:it.director@mcgilleus.ca">it.director@mcgilleus.ca</a>. The brief application form is available here, and is due by Tuesday, March 13th (for IT Director) or Tuesday, March 20th (all other positions).
             </p>
@@ -245,7 +168,7 @@ A position on the IT Committee is one of the most rewarding involvement opportun
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Junior Council Pong of Thrones
+            Blues Pub Manager Applications
           </mj-text>
         </mj-column>
       </mj-section>
@@ -253,21 +176,19 @@ A position on the IT Committee is one of the most rewarding involvement opportun
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Did Power Hour leave your competitive side wanting more? Are you just looking to have some fun with your friends? Whether you're gunning for the throne or just looking to enjoy a night among your clan, The Pong of Thrones is the perfect way to have some post-midterm fun. Only 5$ per team!
+Want help run one of the best student bars on campus? Do you count the hours until Friday 4pm each week? Consider applying to be a Blues Pub Manager for 2018 - 2019. We are looking for some grilled cheese enthusiast/Blues-loving undergraduates to help run Blues.
 <br/><br/>
-              <ul>
-                <li>When: March 15, 2018. 5:30 PM</li>
-                <li>Where: EUS Common Room</li>
-              </ul>
+Applications are due <strong>Monday March 26th</strong> at 11:59pm. If you application is accepted, we will be contacting you to schedule an interviews which will take place Wednesday March 28th. 
+<br/><br/>
+If you have any questions, you can message Blues Pub Facebook page, email <a href="mailto:blues.pub@mcgilleus.ca">blues.pub@mcgilleus.ca</a>, or message Amit Singer (incoming Head Blues Pub Manager)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScqZX0xGTKIq0iU4gfJ7KGWKZ6jEGw8zVu19byXfqieAYI75Q/viewform">Apply here!</a>
 
 
- 
-<a href="https://www.facebook.com/events/1871678929560792/">Link to Facebook event with more information.</a>
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://mcgilleus.ca/sites/default/files/portfolio-image/EUSjc.png"/>
+          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/19665424_1337979232984596_432029356016128531_n.jpg?oh=67c116e0e8f64fd03e18e334216d0781&oe=5B2EC1CB"/>
         </mj-column>
       </mj-section>
       
@@ -275,7 +196,7 @@ A position on the IT Committee is one of the most rewarding involvement opportun
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Queer Engineer Speed Networking
+            Microsoft Azure Workshop
           </mj-text>
         </mj-column>
       </mj-section>
@@ -283,20 +204,100 @@ A position on the IT Committee is one of the most rewarding involvement opportun
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              Want to meet incredible professionals, thriving within a cis male dominated field? Want to learn about career opportunities and companies inclusive to all? Want to connect with people working hard in Engineering?
-<br/><br/>
-If your answer is Yes to any of those questions, Queer Engineer welcomes you to our very special event taking place on March 13 2018 from 6h30 to 8h30pm.
+              <ul>
+                <li>Tired of abstract knowledge taught in class? </li>
+                <li>Need extra incentive to start that software side project you always said you’d do? </li>
+                <li>Want to create your first Node.js app, add cognitive services and deploy the app to the Web in under an hour?</li>
+                
+                Look no further and join McGill’s Microsoft Student Partners for a workshop to build your own app and register for the Microsoft Imagine Cup!
+                <br/><br/>
+Where: TR2100
+                <br/>
+When: March 28th 18:00 – 19:00
+              </ul>
 
-<br/><br/>
-We are trying to host a networking/panel event with LGBTQ+ professionals to meet, discuss and build connections for your future. Food and drinks will be provided.
-
-<br/><br/>
-For more information please visit the Facebook event page <a href="https://www.facebook.com/events/152480882120521/?ti=cl">here</a>. If you have any questions email us at <a href="mailto:queer.engineer@mcgilleus.ca">queer.engineer@mcgilleus.ca</a>.
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/10421476_732773273462093_4282685504903428821_n.jpg?oh=6116cb8a8ced3bc007118784f5dbb3dc&oe=5B4D5D0C"/>
+          <mj-image src="https://upload.wikimedia.org/wikipedia/commons/4/48/Imaginecup-logo.png"/>
+        </mj-column>
+      </mj-section>
+      
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Engineers Without Borders Week
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              EWB is a student organization that promotes sustainability, root-cause thinking and system mapping in engineering. This year, Engineers Without Borders presents EWB Week, which consists a series of professor talks, interactive presentation, and workshop. Both engineers and non-engineers are welcomed to attend. Details for each event can be found on their <a href="https://www.facebook.com/events/2263127183932916/">Facebook event</a>!
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="http://www.ewb-ud.org/wp-content/uploads/2016/04/EWB-logo-full.png"/>
+        </mj-column>
+      </mj-section>
+    
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            NOBE Business Case Competition
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              McGill Engineering and Management Students! The NOBE Business Case Competition is back for another year. Partnering with MCA and sponsored by Deloitte, NBCC is a great opportunity to get together with 3 friends and compete in a case cracking competition. You will develop valuable real world case-cracking and networking skills, while receiving feedback from industry professionals on your work.
+<br/><br/>
+Teams of management and engineering students will have three hours to prepare a creative solution to a business case. Teams will then present their case to judges, who are professionals from our sponsors Deloitte, BCG, Accenture, MESC, SSMU, and Isaac Operations. In addition to gaining case cracking experience, you'll have the opportunity to network and make new connections with industry professionals. 
+<br/><br/>
+There is also a $400 CASH PRIZE for the winning team! (100$/person)
+              <br/><br/>
+              For more information, check out the <a href="https://www.facebook.com/events/341137779720667/">Facebook page</a> here!
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://image.freepik.com/free-icon/business-presentation_318-81822.jpg"/>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            POWE Ericsson Tour
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fefefe">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+              POWE is excited to present Ericsson, the world leader in communications technology! Get an overview of the company with an information session, followed by a complete tour of the brand new, state of the art facility, and a networking event with HR representatives. This is an unique opportunity you do not want to miss!
+              <br/></br>
+There are only 20 spots, so be sure to <a href="https://goo.gl/forms/VzCwS9EIy0qxrHKn2">sign up fast!</a>
+              <br/></br>
+Where: 8275 Trans Canada Route, Saint Laurent, QC H4S 0B6
+          <br/>
+When: March 29, 2018, 1:00-4:00pm
+            </p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://static.wixstatic.com/media/615f53_f0cbf27b9ba04af6b1b90694fb6d1388~mv2.png/v1/fill/w_131,h_56,al_c,usm_0.66_1.00_0.01/615f53_f0cbf27b9ba04af6b1b90694fb6d1388~mv2.png"/>
         </mj-column>
       </mj-section>
 
