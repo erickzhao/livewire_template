@@ -53,7 +53,7 @@
       <mj-section padding-bottom="0" background-color="#fcfcfc">
         <mj-column>
           <mj-text text-transform="uppercase" align="center" font-size="16" color="grey" font-family="Arial, Helvetica, sans-serif" font-style="bold" letter-spacing="2px">
-          mar 19 - 23 : midterms 2: electric boogaloo
+          apr 9 - 13 : is it april or january? ☃️
           </mj-text>
           <mj-divider
               padding="10 20"
@@ -68,71 +68,47 @@
           <mj-text mj-class="header">In this issue</mj-text>
           <mj-text mj-class="table-of-contents">
           <ol>
-            <li>ECSESS Elections - Voting Period</li>
-            <li>Coffee House Signups</li>
-            <li>EUS IT Applications</li>
-            <li>Blues Pub Manager Applications</li>
-            <li>Microsoft Azure Workshop</li>
-            <li>Engineers Without Borders Week</li>
-            <li>NOBE Business Case Competition</li>
-            <li>POWE Ericsson Tour</li>
+            <li>Apparel Sale Pickup</li>
+            <li>Introducing your 2018-2019 VPs</li>
+						<li>ECSE Review Sessions</li>
+            <li>NOBE Recruitment</li>
           </ol>
           </mj-text>
         </mj-column>
         <mj-column>
-          <mj-text mj-class="header">THIS WEEK</mj-text>
+          <mj-text mj-class="header">A FEW WORDS</mj-text>
           <mj-text>
-            <ul style="list-style:none; padding-left: 0;">
-              <li>Wed: VOTE</li>
-              <li>Thu: VOTE</li>
-              <li>Fri: VOTE</li>
-            </ul>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            ECSESS Elections - Voting Period
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              Reminder that the voting period for elections run from Wednesday to Friday! Remember to vote for the next president and your class representatives!
-
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/28378834_1670669576353830_6538791369661950491_n.png?oh=c664aba3ef2b2aa8d946e51a799dc1d8&oe=5B0114A3"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Coffee House Signups
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              ECSESS is back again with its ever popular coffee house! We’ll spend the evening chillin' out maxin' relaxin' all cool listening to your friends and peers show us what they got! It’s sure to be a great time with coffee and snacks provided to keep you cozy.
+            Oh my, the semester's almost over. Brace yourselves for finals (peep our review sessions), and get ready for a well-deserved 4-month break from school!
 <br/><br/>
-If you’d like to perform please fill out the <a href="https://goo.gl/forms/n9Y6YCDb1HyBccYN2">following form.</a>
+Also, in case you haven't heard, we got a new 65'' 4K TV for the lounge, as well as additional sitting and desk space. Check it out!
+<br/><br/>
+            -Erick
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      
+      
+      <!-- Blurb section -->
+      <mj-section background-color="#fefefe" padding-bottom="0">
+        <mj-column>
+          <mj-text mj-class="header">
+            Apparel Sale Pickup
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff">
+        <mj-column width="350px">
+          <mj-text mj-class="body">
+            <p>
+For those of you who haven't done it yet, you must come pick up your item(s) in the lounge (TR1060) from Monday to Friday from 10AM to 4PM. You have until the <strong>16th of April</strong>.
+              
+              <br/><br/>You must make sure to let a council member know first that you have come to pick it up! For any inquiry, please email <a href="mailto:ecsess.vpadmin@mcgilleus.ca">ecsess.vpadmin@mcgilleus.ca</a>.
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/hot-coffee-rounded-cup-on-a-plate-from-side-view_318-54143.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/sweatshirt_318-132837.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -140,27 +116,29 @@ If you’d like to perform please fill out the <a href="https://goo.gl/forms/n9Y
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            EUS IT Applications
+            Introducing Your New VPs
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#fefefe">
+      <mj-section background-color="#ffffff">
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              The application period is now open for positions on the EUS IT Committee for the upcoming academic year! The positions available are those of IT Director, Webmaster, Wiki Curator, and TeN Manager. Each position is a fun way to develop your technical experience through real-world projects.
-              <ul>
-                <li>Webmaster - develop and maintain the EUS's network of 40+ websites; manage the server-side setup of *.mcgilleus.ca</li>
-                <li>TeN Manager - curate content for the EUS's digital signage network; maintain the hardware of the network (server set-up, computers and monitors)
-                </li>
-                <li>Wiki Curator - write articles and encourage others to contribute articles to the growing repository of EUS knowledge, the EUS Wiki</li>
+Congrats to the newly selected VPs for the ECSESS 2018-2019 council:
+							<ul>
+                <li>VP Academic - Evan LaFlamme</li>
+                <li>VP Admin - Massiva Hamli</li>
+                <li>VP Communications - Elie Elia</li>
+                <li>VP External - Cara Zhang</li>
+                <li>VP Finance - Alex Moreau</li>
+                <li>VP Internal - Anna Bieber</li>
+                <li>VP Tech Dev - Erick Zhao</li>
               </ul>
-A position on the IT Committee is one of the most rewarding involvement opportunities in the EUS. For more information, see the <a href="http://wiki.mcgilleus.ca/index.php/IT_Committee">IT Committee Wiki Article</a> or email <a href="mailto:it.director@mcgilleus.ca">it.director@mcgilleus.ca</a>. The brief application form is available here, and is due by Tuesday, March 13th (for IT Director) or Tuesday, March 20th (all other positions).
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://mcgilleus.ca/sites/default/files/Header%20with%20words.png"/>
+          <mj-image src="https://image.freepik.com/free-icon/group_318-143713.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -168,109 +146,30 @@ A position on the IT Committee is one of the most rewarding involvement opportun
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            Blues Pub Manager Applications
+            ECSE Review Sessions
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#fefefe">
+      <mj-section background-color="#ffffff">
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-Want help run one of the best student bars on campus? Do you count the hours until Friday 4pm each week? Consider applying to be a Blues Pub Manager for 2018 - 2019. We are looking for some grilled cheese enthusiast/Blues-loving undergraduates to help run Blues.
-<br/><br/>
-Applications are due <strong>Monday March 26th</strong> at 11:59pm. If you application is accepted, we will be contacting you to schedule an interviews which will take place Wednesday March 28th. 
-<br/><br/>
-If you have any questions, you can message Blues Pub Facebook page, email <a href="mailto:blues.pub@mcgilleus.ca">blues.pub@mcgilleus.ca</a>, or message Amit Singer (incoming Head Blues Pub Manager)
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScqZX0xGTKIq0iU4gfJ7KGWKZ6jEGw8zVu19byXfqieAYI75Q/viewform">Apply here!</a>
-
-
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-9/19665424_1337979232984596_432029356016128531_n.jpg?oh=67c116e0e8f64fd03e18e334216d0781&oe=5B2EC1CB"/>
-        </mj-column>
-      </mj-section>
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Microsoft Azure Workshop
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              <ul>
-                <li>Tired of abstract knowledge taught in class? </li>
-                <li>Need extra incentive to start that software side project you always said you’d do? </li>
-                <li>Want to create your first Node.js app, add cognitive services and deploy the app to the Web in under an hour?</li>
-                
-                Look no further and join McGill’s Microsoft Student Partners for a workshop to build your own app and register for the Microsoft Imagine Cup!
-                <br/><br/>
-Where: TR2100
-                <br/>
-When: March 28th 18:00 – 19:00
+Finals are coming up quickly, but worry not! ECSESS has got you covered with free review sessions!
+							<ul>
+                <li><a href="https://www.facebook.com/events/1818925578170083/">ECSE 202</a></li>
+                <li><a href="https://www.facebook.com/events/229356820975944/">ECSE 205/305</a></li>
+                <li><a href="https://www.facebook.com/events/2067857963492300/">ECSE 251</a></li>
+                <li><a href="https://www.facebook.com/events/159544984691362/">ECSE 310</a></li>
+                <li><a href="https://www.facebook.com/events/2067976590131279/">ECSE 334/335</a></li>
+                <li><a href="https://www.facebook.com/events/595179114177943/">ECSE 361/362</a></li>
               </ul>
 
+Stay tuned for more to come!
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://upload.wikimedia.org/wikipedia/commons/4/48/Imaginecup-logo.png"/>
-        </mj-column>
-      </mj-section>
-      
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            Engineers Without Borders Week
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              EWB is a student organization that promotes sustainability, root-cause thinking and system mapping in engineering. This year, Engineers Without Borders presents EWB Week, which consists a series of professor talks, interactive presentation, and workshop. Both engineers and non-engineers are welcomed to attend. Details for each event can be found on their <a href="https://www.facebook.com/events/2263127183932916/">Facebook event</a>!
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="http://www.ewb-ud.org/wp-content/uploads/2016/04/EWB-logo-full.png"/>
-        </mj-column>
-      </mj-section>
-    
-      
-      <!-- Blurb section -->
-      <mj-section background-color="#fefefe" padding-bottom="0">
-        <mj-column>
-          <mj-text mj-class="header">
-            NOBE Business Case Competition
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section background-color="#fefefe">
-        <mj-column width="350px">
-          <mj-text mj-class="body">
-            <p>
-              McGill Engineering and Management Students! The NOBE Business Case Competition is back for another year. Partnering with MCA and sponsored by Deloitte, NBCC is a great opportunity to get together with 3 friends and compete in a case cracking competition. You will develop valuable real world case-cracking and networking skills, while receiving feedback from industry professionals on your work.
-<br/><br/>
-Teams of management and engineering students will have three hours to prepare a creative solution to a business case. Teams will then present their case to judges, who are professionals from our sponsors Deloitte, BCG, Accenture, MESC, SSMU, and Isaac Operations. In addition to gaining case cracking experience, you'll have the opportunity to network and make new connections with industry professionals. 
-<br/><br/>
-There is also a $400 CASH PRIZE for the winning team! (100$/person)
-              <br/><br/>
-              For more information, check out the <a href="https://www.facebook.com/events/341137779720667/">Facebook page</a> here!
-            </p>
-          </mj-text>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://image.freepik.com/free-icon/business-presentation_318-81822.jpg"/>
+          <mj-image src="https://image.freepik.com/free-icon/open-magazine_318-103426.jpg"/>
         </mj-column>
       </mj-section>
       
@@ -278,26 +177,36 @@ There is also a $400 CASH PRIZE for the winning team! (100$/person)
       <mj-section background-color="#fefefe" padding-bottom="0">
         <mj-column>
           <mj-text mj-class="header">
-            POWE Ericsson Tour
+            NOBE recruiting for 2018-2019
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section background-color="#fefefe">
+      <mj-section background-color="#ffffff">
         <mj-column width="350px">
           <mj-text mj-class="body">
             <p>
-              POWE is excited to present Ericsson, the world leader in communications technology! Get an overview of the company with an information session, followed by a complete tour of the brand new, state of the art facility, and a networking event with HR representatives. This is an unique opportunity you do not want to miss!
-              <br/></br>
-There are only 20 spots, so be sure to <a href="https://goo.gl/forms/VzCwS9EIy0qxrHKn2">sign up fast!</a>
-              <br/></br>
-Where: 8275 Trans Canada Route, Saint Laurent, QC H4S 0B6
-          <br/>
-When: March 29, 2018, 1:00-4:00pm
+              NOBE McGill is looking for creative, driven and fun individuals to be part of their 2018-2019 executive team. Our organization is a student-run non-profit throughout the US and Canada that aims to enrich engineering students with opportunities in the world of business. The available positions are:
+              <ul>
+                <li>VP Events</li>
+                <li>VP Finance</li>
+                <li>VP External</li>
+                <li>Logistics Director</li>
+                <li>Corporate Relations Director</li>
+                <li>Graphic Directors</li>
+                <li>Campaign Director</li>
+                <li>Social Media Director</li>
+                <li>Outreach Director</li>
+                <li>Project Managers</li>
+              </ul>
+
+Don't worry, you don't need any business experience to join the team... that's the point! NOBE's goal is to introduce the world of business to engineering students.
+Join us and apply today through 
+<a href="https://goo.gl/forms/CUA3L1YnMbPTxZpa2">https://goo.gl/forms/CUA3L1YnMbPTxZpa2</a>
             </p>
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-image src="https://static.wixstatic.com/media/615f53_f0cbf27b9ba04af6b1b90694fb6d1388~mv2.png/v1/fill/w_131,h_56,al_c,usm_0.66_1.00_0.01/615f53_f0cbf27b9ba04af6b1b90694fb6d1388~mv2.png"/>
+          <mj-image src="https://www.nobemcgill.org/wp-content/uploads/2017/12/NOBE-LOGO-No-Website.png"/>
         </mj-column>
       </mj-section>
 
